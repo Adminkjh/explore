@@ -1,29 +1,4 @@
-# Contributing
-
-Hi there! We're excited you have ideas to improve topics and collections. You're helping the community discover valuable information.
-
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
-
-There are a few ways you can contribute:
-
-- Improving an existing topic or collection
-- Curating a new topic or collection
-
-As you write content, check out the [Style Guide](./docs/styleguide.md) to learn what each field means, and how it should be formatted. Following the style guide will increase the chances of your contribution being accepted.
-
-Notes:
-  - Updates won't immediately appear once we've merged your PR. We pull in these changes regularly to GitHub.
-  - Please limit your pull request to the creation/updating of one topic or collection at a time.
-
-## Improving an existing topic or collection
-
-If a topic or collection already exists, it will be listed in its respective directory:
-
-- [topics/](https://github.com/github/explore/tree/main/topics)
-- [collections/](https://github.com/github/explore/tree/main/collections)
-
-The topic or collection name should match its URL, e.g. `https://github.com/topics/rails` corresponds to the [`topics/rails` directory](https://github.com/github/explore/tree/main/topics/rails).
-
+Hello Sir
 To make an improvement, please **open a pull request** with your proposed changes. 
 
 ### Update the image
